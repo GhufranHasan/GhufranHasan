@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a fresh post-graduate of Software Engineering at Riphah International University in Islamabad, Pakistan. I'm currently focusing on learning about web development
 
-* 🌍  I'm based in Surabaya, Indonesia
+* 🌍  I'm based in Islamabad, Pakistan
 * ✉️  You can contact me at [ghufran.aims@gmail.com](mailto:ghufran.aims@gmail.com)
 * 🧠  I'm currently learning NextJs 
 * ⚡  I am a big fan of thriller serials and movies especially when there is a murder mystery involved :smile:
