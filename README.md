@@ -1,12 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ghufran 
 ======================================================================================================================================
 
-I'm a fresh post-graduate of Software Engineering at Riphah International University in Islamabad, Pakistan. I'm currently focusing on learning about web development
+I'm a fresh post-graduate in Software Engineering at Riphah International University in Islamabad, Pakistan. I'm currently focusing on learning about web development
 
 * 🌍  I'm based in Islamabad, Pakistan
 * ✉️  You can contact me at [ghufran.aims@gmail.com](mailto:ghufran.aims@gmail.com)
 * 🧠  I'm currently learning NextJs 
 * ⚡  I am a big fan of thriller serials and movies especially when there is a murder mystery involved :smile:
+
+<a href="https://app.daily.dev/ghufran93"><img src="https://api.daily.dev/devcards/ebe4c7d89c9d4111a07ac437b3826fe5.png?r=kpo" width="400" alt="Ghufran Hasan's Dev Card"/></a>
 
 ### Skills
 
@@ -27,4 +29,3 @@ I'm a fresh post-graduate of Software Engineering at Riphah International Univer
 ### Socials
 <!-- <a href="https://www.codepen.io/Ghufran93" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /> <a href="https://www.stackoverflow.com/users/20288639/shabrina-putri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p> <a href="https://www.instagram.com/ghufran_hasan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>-->
 <p align="left"> </a> <a href="https://www.github.com/GhufranHasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ghufran-hasan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://app.daily.dev/ghufran93"><img src="https://api.daily.dev/devcards/ebe4c7d89c9d4111a07ac437b3826fe5.png?r=kpo" width="400" alt="Ghufran Hasan's Dev Card"/></a>
